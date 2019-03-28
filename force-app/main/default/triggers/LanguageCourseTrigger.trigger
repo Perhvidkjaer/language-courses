@@ -3,7 +3,7 @@ trigger LanguageCourseTrigger on Language_Course__c (after insert, after update,
 
 // b2ssxx
 //testlinie3
-
+// EFTER ww er pushed
 // t4
 
 }
