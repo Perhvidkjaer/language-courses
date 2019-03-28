@@ -5,6 +5,7 @@ trigger LanguageCourseTrigger on Language_Course__c (after insert, after update,
 //testlinie3
 // EFTER ww er pushed
 // t4
-wz
+//wz1
+//wz2
 
 }
